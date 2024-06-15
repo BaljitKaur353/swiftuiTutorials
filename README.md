@@ -20,3 +20,5 @@ Key Features of SwiftUI
 If you want to connect with me on, Follow me on [Medium](https://medium.com/@baljitKaurGoraya)
 
 Check the following links:
+
+- [Basics of SwiftUI](https://medium.com/@baljitKaurGoraya/basics-of-swiftui-6fae0f19c40c)
