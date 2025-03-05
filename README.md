@@ -22,3 +22,4 @@ If you want to connect with me on, Follow me on [Medium](https://medium.com/@bal
 Check the following links:
 
 - [Mastering the Basics of SwiftUI: A Beginner’s Guide to Building iOS Apps](https://medium.com/@baljitKaurGoraya/basics-of-swiftui-6fae0f19c40c)
+- [AppTime Tracker: Live Usage](https://medium.com/swiftfy/apptime-tracker-live-usage-a8f30ba74a6b)
