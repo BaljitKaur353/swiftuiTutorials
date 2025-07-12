@@ -25,3 +25,4 @@ Check the following links:
 - [AppTime Tracker: Live Usage](https://medium.com/swiftfy/apptime-tracker-live-usage-a8f30ba74a6b)
 - [Navigating from SwiftUI to UIKit in iOS Apps](https://medium.com/swiftfy/navigating-from-swiftui-to-uikit-in-ios-apps-1292f146bc69)
 - [Top 5 SwiftUI Libraries to Supercharge Your iOS Development](https://medium.com/swiftfy/top-5-swiftui-libraries-to-supercharge-your-ios-development-978db08efd5f)
+- [SwiftUI Gestures and types of gestures in SwiftUI](https://medium.com/@baljitKaurGoraya/swiftui-gestures-and-types-of-gestures-in-swiftui-841771d229a5)
